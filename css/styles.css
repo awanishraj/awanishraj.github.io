@@ -1,0 +1,57 @@
+body {
+	padding-top:70px;
+}
+
+
+				
+.page-header {
+	margin-top:10px;
+	
+}
+
+
+.navbar-default {
+  max-height: auto;
+}
+
+.navbar-collapse.in {
+	max-height:none;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 60.9375%;
+    padding-top: 0px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+/*@media (max-width: 980px) {
+
+  body > .container {
+    padding-top: 0;
+  }
+  .navbar-fixed-top {
+    margin-bottom: 0;
+  }
+
+} /* END: @media (max-width: 980px) */
+*/
+
+.panel-body {
+	padding-top:0;
+}
+
+.featureImg {
+	margin-bottom:15px;
+}
